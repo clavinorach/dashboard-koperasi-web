@@ -14,24 +14,12 @@ This project according to Web Programming Lecture Assignment for making Dashboar
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-You can view a live demo of this project [here](https://your-demo-link.com).
-
-## Features
-
-- Responsive sidebar navigation
-- Collapsible menu items with nested submenus
-- Custom icons from Lineicons
-- Dashboard template with Bootstrap components
-- Example data and structure for a cooperative management system
 
 ## Technologies Used
 
 - HTML5
 - CSS3
 - [Bootstrap 5.3.2](https://getbootstrap.com/docs/5.3/)
-- [Lineicons](https://lineicons.com/)
 - JavaScript
 
 ## Installation
@@ -39,10 +27,6 @@ You can view a live demo of this project [here](https://your-demo-link.com).
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/sidebar-with-bootstrap.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd sidebar-with-bootstrap
    ```
 
 ## Usage
